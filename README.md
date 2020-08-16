@@ -1,6 +1,7 @@
 # NLLLT
 A simple numerical nonlinear aerodynamic model based on lifting line theory. Uses one horseshoe vortex to model a straight rectangular wing of moderate to large aspect ratio.
 
+
 # Theory behind the model
 To see the theory that went into the model please see Simple, Simple Post-Stall Aerodynamic Model.pdf
 
