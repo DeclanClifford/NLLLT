@@ -26,6 +26,8 @@ trvort=[large;0;large*sin(alpha)];
 %trvort=[large;0;0];
 
 % wing aerofoil
+% these are the inputs to clsectional - see clsectional for a better
+% description of what's going on here
 aerofoil_details=[14*pi/180, 2*pi/180, -14*pi/180, 2*pi/180, 1, 0];
 aerofoil=aerofoil_details;
             
