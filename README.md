@@ -1,4 +1,4 @@
-# NLLLT
+# Simple Nonlinear Lifting Line Theory
 ![title_page_image](https://github.com/DeclanClifford/NLLLT/blob/master/Theory/title_page_image.png)
 A simple numerical nonlinear aerodynamic model based on lifting line theory. Uses one horseshoe vortex to model a straight rectangular wing of moderate to large aspect ratio.
 
