@@ -1,4 +1,4 @@
-# Simple Nonlinear Lifting Line Theory
+# Simple Nonlinear Lifting Line Model
 ![title_page_image](https://github.com/DeclanClifford/NLLLT/blob/master/Theory/title_page_image.png)
 
 # What is it?
