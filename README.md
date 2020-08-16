@@ -5,7 +5,7 @@ A simple numerical nonlinear aerodynamic model based on lifting line theory. Use
 # Theory behind the model
 To see the theory that went into the model please see Simple, Simple Post-Stall Aerodynamic Model.pdf
 
-[Simple, Simple Post-Stall Aerodynamic Model](/Simple, Simple Post-Stall Aerodynamic Model.pdf)
+[Simple, Simple Post-Stall Aerodynamic Model](Simple, Simple Post-Stall Aerodynamic Model.pdf)
 
 # How do I use it?
 
