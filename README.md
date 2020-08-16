@@ -2,7 +2,7 @@
 ![title_page_image](https://github.com/DeclanClifford/NLLLT/blob/master/Theory/title_page_image.png)
 
 # What is it?
-A simple numerical nonlinear aerodynamic model based on lifting line theory. Uses one horseshoe vortex to model a straight rectangular wing of moderate to large aspect ratio.
+A simple numerical nonlinear aerodynamic model based on lifting line theory. Uses one horseshoe vortex to model a straight rectangular wing of moderate to large aspect ratio. This model was created as part of my third year Individual Project at the University of Southampton, supervised by Professor Neil Sandham.
 
 
 # Theory behind the model
